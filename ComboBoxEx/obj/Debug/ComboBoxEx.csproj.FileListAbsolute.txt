@@ -1,0 +1,14 @@
+Z:\ComboBoxEx\ComboBoxEx\bin\Debug\ComboBoxEx.exe
+Z:\ComboBoxEx\ComboBoxEx\bin\Debug\ComboBoxEx.pdb
+Z:\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.Form1.resources
+Z:\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.Properties.Resources.resources
+Z:\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.csproj.GenerateResource.Cache
+Z:\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.exe
+Z:\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.pdb
+E:\My Test Projects\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.exe
+E:\My Test Projects\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.pdb
+E:\My Test Projects\ComboBoxEx\ComboBoxEx\bin\Debug\ComboBoxEx.exe
+E:\My Test Projects\ComboBoxEx\ComboBoxEx\bin\Debug\ComboBoxEx.pdb
+E:\My Test Projects\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.Form1.resources
+E:\My Test Projects\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.Properties.Resources.resources
+E:\My Test Projects\ComboBoxEx\ComboBoxEx\obj\Debug\ComboBoxEx.csproj.GenerateResource.Cache
